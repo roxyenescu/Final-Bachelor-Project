@@ -1,0 +1,42 @@
+body {
+  background-color: #ffd4b2;
+}
+
+.homepage-container {
+  flex-direction: column;
+  align-items: center;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  position: relative;
+}
+
+.adapost1 {
+  height: 110px;
+  width: 190px;
+  margin-right: 10px;
+  float: left;
+  border-radius: 10px;
+}
+
+.adapost2 {
+  height: 120px;
+  width: 200px;
+  margin-right: 10px;
+  float: right;
+  border-radius: 10px;
+}
+
+.homepage-title {
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  color: rgba(236, 48, 20, 0.9);
+}
+
+.homepage-paragraph {
+  font-size: 18px;
+  line-height: 1.5;
+  margin-bottom: 10px;
+}
