@@ -27,11 +27,30 @@ The AnimalsCARE application developed aims to facilitate the animal adoption pro
 - The "Home" page of the animal adoption website represents an essential platform for communication and conveying the shelter's values and messages to users. Through emotional content and appealing visual elements, this page aims to inspire compassion and provide relevant information, thereby encouraging responsible adoption and community support.
 
   Users Interface:
-  ![donatie card](https://github.com/roxyenescu/Final-Bachelor-Project/assets/115460507/40fff41f-4612-46f7-8107-db4a0bcc0e62)
-![donatie jucarii mancare](https://github.com/roxyenescu/Final-Bachelor-Project/assets/115460507/dbdc8a6a-a55f-4c1d-afc5-21bca815606c)
-![formular](https://github.com/roxyenescu/Final-Bachelor-Project/assets/115460507/39af35e8-f6a3-4f69-a9b6-526479505341)
-![acasa](https://github.com/roxyenescu/Final-Bachelor-Project/assets/115460507/4f06cd87-e7d6-465a-a277-4775f8c00399)
-![bara cautare](https://github.com/roxyenescu/Final-Bachelor-Project/assets/115460507/81cb8d60-ea24-4993-a706-2cba94c2840a)
-![inregistrare](https://github.com/roxyenescu/Final-Bachelor-Project/assets/115460507/2606fad1-e0c8-44af-99b0-5e504c3a56cd)
-![autentificare](https://github.com/roxyenescu/Final-Bachelor-Project/assets/115460507/8ed6d14a-d4b9-49af-8345-2b3bc2291c9e)
+![autentificare](https://github.com/roxyenescu/Final-Bachelor-Project/assets/115460507/22c127ce-f598-4621-a570-3e6838065718)
+![inregistrare](https://github.com/roxyenescu/Final-Bachelor-Project/assets/115460507/d3fb88f4-6655-4f9f-b7e7-33689892d756)
+![bara cautare](https://github.com/roxyenescu/Final-Bachelor-Project/assets/115460507/331923e4-fae8-450c-a2c9-fab1099a7110)
+![acasa](https://github.com/roxyenescu/Final-Bachelor-Project/assets/115460507/551278a2-eed5-412e-be8e-a2717ae04305)
+![formular](https://github.com/roxyenescu/Final-Bachelor-Project/assets/115460507/e840753d-65c3-4f86-9a4c-443829f0db61)
+![donatie jucarii mancare](https://github.com/roxyenescu/Final-Bachelor-Project/assets/115460507/6bcbbf3e-ae55-4e26-ae21-dbce0bee21b8)
+![donatie card](https://github.com/roxyenescu/Final-Bachelor-Project/assets/115460507/3e7db594-7e9c-4d7f-b435-a45b3341e41e)
+
+  Employees Interface:
+![interfata angajat](https://github.com/roxyenescu/Final-Bachelor-Project/assets/115460507/2f55ed0e-9273-46d3-99a3-f2d10881fa34)
+![creeaza postare](https://github.com/roxyenescu/Final-Bachelor-Project/assets/115460507/9a4eef97-a9a0-41b0-a954-006d0c56f0c1)
+![editeaza postare](https://github.com/roxyenescu/Final-Bachelor-Project/assets/115460507/e9561dfa-5fcf-4cc5-9c82-02c7bd6d6da7)
+![statistici](https://github.com/roxyenescu/Final-Bachelor-Project/assets/115460507/766da833-b14e-40e3-b760-411a3711be91)
+![programari](https://github.com/roxyenescu/Final-Bachelor-Project/assets/115460507/8aaa2dc0-5899-4390-96f4-6ed67cf8f437)
+
+
+
+
+
+
+
+
+
+
+
+
 
